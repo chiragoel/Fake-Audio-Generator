@@ -1,4 +1,5 @@
 Fake Audio Generator
+
 This repo contains the training scripts for creating a fake audio generator that converts any given text to an obama speech using 
 
 -TTS: Using Tacotron 2 model with MB-MelGAN as vocoder
